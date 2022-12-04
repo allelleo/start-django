@@ -1,0 +1,6 @@
+/2/env/*
+/1/env/*
+/2/env/
+/1/env/
+.idea/
+.git/
